@@ -1,6 +1,6 @@
 *1. What question are you trying to answer?*
 
-"Is there credible evidence of disinformation campaigns on Twitter related to the Ukraine war, and if so, at the magnitude of which only a state actor (i.e. Russia) would be able to organize?
+"Is there credible evidence of disinformation campaigns on Twitter related to the Ukraine war, and if so, at the magnitude of which only a state actor (i.e. Russia) would be able to organize?"
 
 *2. Why is this question worth answering? This can be either because it has some personal value to you or because it is a question that others are asking. If it is a question others are asking, then provide an example.*
 
