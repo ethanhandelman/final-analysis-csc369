@@ -9,12 +9,17 @@ To me, this question is worth answering because I have followed this conflict an
 *3. What is your hypothesis? Why leads you towards that hypothesis?*
 
 **Hypothesis:** 
+
 There is credible evidence on Twitter of coordinated disinformation campaigns linked to the Ukraine war, and the scale and organizational complexity of these campaigns strongly suggest involvement by state actors—most likely the Kremlin.
 
 **Rationale:**
--Historical Precedents: Prior studies on disinformation have documented similar large-scale, coordinated campaigns during other geopolitical conflicts, often with patterns unique to state-sponsored operations. The FBI has uncovered multiple instances of Russian election interference in the past, and there is no reason to believe they would stop,
--Geopolitical Context: Given the strategic interests of Russia in the region and documented evidence of state-run information operations in the past, it is plausible that the magnitude of coordination necessary for such a campaign is only achievable by a well-resourced state actor.
--Twitter's history of bots: Many studies have estimated that over 20% of global daily users on Twitter are bots, meaning that there is little being done to combat large-scale operations on the site.
 
-*4. What is the primary dataset(s) you will use to answer the question? The dataset(s) must be at least 15GB in their original form when downloaded. Provide links. You may not choose r/place (any year) as your analysis set.*
+* Historical precedents: Prior studies on disinformation have documented similar large-scale, coordinated campaigns during other geopolitical conflicts, often with patterns unique to state-sponsored operations. The FBI has uncovered multiple instances of Russian election interference in the past, and there is no reason to believe they would stop,
+
+* Geopolitical context: Given the strategic interests of Russia in the region and documented evidence of state-run information operations in the past, it is plausible that the magnitude of coordination necessary for such a campaign is only achievable by a well-resourced state actor.
+
+* Twitter's history of bots: Many studies have estimated that over 20% of global daily users on Twitter are bots, meaning that there is little being done to combat large-scale operations on the site.
+
+*4. What is the primary dataset(s) you will use to answer the question?*
+
 Kaggle Ukraine Conflict Twitter Dataset (47.5 GB of CSV files): https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows/
