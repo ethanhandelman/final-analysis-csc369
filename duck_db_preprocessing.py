@@ -5,7 +5,7 @@ import os
 def main():
     # Define paths
     archive_dir = './data/archive'
-    db_file = './data/combined_tweets.duckdb'
+    db_file = './data/combined_tweets3.duckdb'
     
     # Connect (or create) the DuckDB database
     con = duckdb.connect(database=db_file, read_only=False)
@@ -17,7 +17,7 @@ def main():
         return
 
     # Columns to be inserted
-    columns = "userid, location, followers, totaltweets, usercreatedts, tweetcreatedts, retweetcount, text, hashtags, language"
+    columns = "userid, username, location, followers, following, totaltweets, usercreatedts, tweetcreatedts, retweetcount, text, hashtags, language"
     
     first = True  # Flag to create the table for the first file only
     for csv_file in csv_files:
